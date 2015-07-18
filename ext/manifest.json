@@ -2,7 +2,7 @@
   "name": "Auto poe.trade search",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "This extension was created with the awesome extensionizr.com",
+  "description": "This extension will autopopulate your poe.trade query boxes",
   "homepage_url": "http://mgal.us",
   "icons": {
     "16": "icons/icon16.png",
