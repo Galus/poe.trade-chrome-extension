@@ -1,7 +1,7 @@
 ```
 =============================================================================== 
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-                    Version 2, December 2015 
+                    Version 2, July 2015 
 
  Copyright (C) 2015 Mariusz Galus <mg@mgal.us> 
 
