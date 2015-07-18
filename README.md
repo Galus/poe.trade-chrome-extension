@@ -2,7 +2,7 @@
 Uses Path of Exile's item copybuffer data in auto-populating the poe.trade site's query data.
 
 To load this extension from source into chrome:
-Goto chrome://extension  >  developer mode  >  load unpacked extensions  >
+Goto [chrome://extension](chrome://extension)  >  developer mode  >  load unpacked extension  >
 and add the 'ext' folder.
 
 ```
